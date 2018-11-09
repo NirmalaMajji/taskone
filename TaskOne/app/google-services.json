@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "741232769533",
+    "firebase_url": "https://placesnear-221917.firebaseio.com",
+    "project_id": "placesnear-221917",
+    "storage_bucket": "placesnear-221917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741232769533:android:5b1310bba844b5c7",
+        "android_client_info": {
+          "package_name": "com.taskone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741232769533-6avhjt0mpfnekrrkkvsln3gj9i3l851p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7I1QG3DXWkGWpUix6v3DHjMDhdTCbbgE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

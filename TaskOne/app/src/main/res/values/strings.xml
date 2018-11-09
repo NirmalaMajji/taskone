@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TaskOne</string>
+    <string name="setRadiusKey">radius</string>
+    <string name="radiusDefault">1000</string>
+    <string name="setSortKey">sort</string>
+    <string name="sortDefault">prominence</string>
+    <string name="responceLanguage">en</string>
+    <string name="search">Search</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="radius">Radius</string>
+
+    <string name="cancel"> Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="alert_no_gps"> Please turn on your device GPS</string>
+    <string name="favorites">Favorites</string>
+    <string name="nearbyrestunrants">NearByRestunrants</string>
+</resources>
